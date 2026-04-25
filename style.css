@@ -69,10 +69,10 @@ body {
 }
 
 .main-content {
-    padding: 50px 40px;
+    padding: 10px 10px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
 }
 
 /*.left-column, .right-column { }*/
